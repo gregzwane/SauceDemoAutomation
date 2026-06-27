@@ -1,0 +1,4 @@
+utilities\testBaseCI.class
+com\saucedemo\pages\loginPage.class
+com\saucedemo\pages\basePage.class
+utilities\BaseTest.class
